@@ -1,0 +1,15 @@
+../drivers/dri_clock.h:109:20:DRI_CLOCK_EnableClock	16	static
+../drivers/adc.h:29:20:ADC_InterruptEnable	16	static
+../drivers/adc.h:48:20:ADC_SetClockDivide	16	static
+../drivers/adc.h:64:20:ADC_SetSampleTime	16	static
+../drivers/adc.h:82:20:ADC_SetResolution	16	static
+../drivers/adc.h:99:20:ADC_SetTriggerMode	16	static
+../drivers/adc.h:117:20:ADC_SetInputClock	16	static
+../drivers/adc.h:134:20:ADC_SetVoltageReference	16	static
+../drivers/adc.h:149:20:ADC_SetContinuousConversion	16	static
+../drivers/adc.h:183:20:ADC_SetInputChannel	16	static
+../drivers/dri_adc.c:23:6:DRI_ADC_Init	16	static
+../drivers/dri_adc.c:50:6:DRI_ADC_ConfigHwAverage	16	static
+../drivers/dri_adc.c:78:6:DRI_ADC_ConfigChannel	32	static
+../drivers/dri_adc.c:93:10:DRI_ADC_GetConversionValue	16	static
+../drivers/dri_adc.c:105:9:DRI_ADC_GetConvCompleteFlag	16	static

@@ -1,0 +1,3 @@
+../hal/flash.c:21:6:Program_LongWord	16	static
+../hal/flash.c:56:10:Erase_Sector	16	static
+../hal/flash.c:84:10:Erase_Multi_Sector	32	static

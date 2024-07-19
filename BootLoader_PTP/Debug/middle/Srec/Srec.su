@@ -1,0 +1,8 @@
+../middle/Srec/Srec.c:31:15:SREC_checkSyntax	32	static
+../middle/Srec/Srec.c:69:15:SREC_Checksum	40	static
+../middle/Srec/Srec.c:106:15:SREC_CheckByteCount	40	static
+../middle/Srec/Srec.c:132:15:SREC_CheckRecordStart	24	static
+../middle/Srec/Srec.c:154:15:SREC_CheckRecordType	24	static
+../middle/Srec/Srec.c:195:9:SREC_TerminationIsExist	8	static
+../middle/Srec/Srec.c:205:9:SREC_convertStrToDec	24	static
+../middle/Srec/Srec.c:232:8:SREC_lengthLineSrec	24	static

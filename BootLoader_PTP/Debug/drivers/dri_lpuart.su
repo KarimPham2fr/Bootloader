@@ -1,0 +1,15 @@
+../drivers/dri_clock.h:109:20:DRI_CLOCK_EnableClock	16	static
+../drivers/dri_clock.h:132:20:DRI_CLOCK_SelectSource	16	static
+../drivers/lpuart.h:66:20:LPUART_Transmit_Enable	16	static
+../drivers/lpuart.h:79:20:LPUART_Receive_Enable	16	static
+../drivers/lpuart.h:92:20:LPUART_SetBaudRateDivisor	16	static
+../drivers/lpuart.h:105:20:LPUART_SetOversamplingRatio	16	static
+../drivers/lpuart.h:118:20:LPUART_SetMSBfirst	16	static
+../drivers/lpuart.h:131:20:LPUART_SetReceiveDataInvert	16	static
+../drivers/lpuart.h:144:20:LPUART_SetTranmitDataInvert	16	static
+../drivers/lpuart.h:157:20:LPUART_SetStopBit	16	static
+../drivers/lpuart.h:180:20:LPUART_EnableBothEdgeSampling	16	static
+../drivers/dri_lpuart.c:34:6:DRI_LPUART_SetBaudRate	40	static
+../drivers/dri_lpuart.c:71:6:DRI_LPUART0_Init	16	static
+../drivers/dri_lpuart.c:110:6:DRI_LPUART_TranmitData	32	static
+../drivers/dri_lpuart.c:136:13:DRI_LPUART_Calculate_OSR_SBR	48	static

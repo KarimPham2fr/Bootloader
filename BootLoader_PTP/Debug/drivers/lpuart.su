@@ -1,0 +1,2 @@
+../drivers/lpuart.c:24:6:LPUART_SetBitMode	16	static
+../drivers/lpuart.c:62:6:LPUART_SetParity	16	static

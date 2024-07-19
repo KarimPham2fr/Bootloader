@@ -1,0 +1,6 @@
+../drivers/dri_gpio.c:23:19:DRI_GPIO_TogglePin	24	static
+../drivers/dri_gpio.c:46:19:DRI_GPIO_WritePin	24	static
+../drivers/dri_gpio.c:76:18:DRI_GPIO_ReadPin	24	static
+../drivers/dri_gpio.c:99:19:DRI_GPIO_Init	32	static
+../drivers/dri_gpio.c:131:10:DRI_GPIO_PortGetInterruptFlags	24	static
+../drivers/dri_gpio.c:167:6:DRI_GPIO_PortClearInterruptFlags	16	static

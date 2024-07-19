@@ -1,0 +1,4 @@
+../app/user_inform.c:28:6:UI_inform	16	static
+../app/user_inform.c:34:6:UI_informStarting	8	static
+../app/user_inform.c:40:6:UI_informError	8	static
+../app/user_inform.c:46:6:UI_informSucess	8	static

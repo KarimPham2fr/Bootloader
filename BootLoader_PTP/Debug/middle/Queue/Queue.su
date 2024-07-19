@@ -1,0 +1,9 @@
+C:\NXP\MCUXpressoIDE_11.9.0_2144\Pham_Thanh_Phong_MCU_Mock\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+C:\NXP\MCUXpressoIDE_11.9.0_2144\Pham_Thanh_Phong_MCU_Mock\CMSIS/core_cm0plus.h:779:22:__NVIC_DisableIRQ	16	static
+../middle/Queue/Queue.c:23:6:Queue_Init	24	static
+../middle/Queue/Queue.c:56:6:Queue_DeInit	16	static
+../middle/Queue/Queue.c:77:9:Queue_isFull	24	static
+../middle/Queue/Queue.c:106:9:Queue_isEmpty	24	static
+../middle/Queue/Queue.c:135:8:Queue_enQueue	24	static
+../middle/Queue/Queue.c:181:7:Queue_deQueue	24	static
+../middle/Queue/Queue.c:214:7:Queue_peekQueue	24	static

@@ -1,0 +1,7 @@
+../drivers/dri_clock.h:146:24:DRI_SCG_GetFircRange	16	static
+../drivers/dri_clock.h:157:24:DRI_SCG_GetFircSecondAsyncDivider	16	static
+../drivers/dri_clock.c:23:19:DRI_CLOCK_InitFirc	24	static
+../drivers/dri_clock.c:48:19:DRI_CLOCK_DeinitFirc	16	static
+../drivers/dri_clock.c:68:19:DRI_CLOCK_InitSirc	32	static
+../drivers/dri_clock.c:93:19:DRI_CLOCK_DeinitSirc	16	static
+../drivers/dri_clock.c:115:10:DRI_CLOCK_SYS_Get_FIRCDIV2_CLK	16	static
