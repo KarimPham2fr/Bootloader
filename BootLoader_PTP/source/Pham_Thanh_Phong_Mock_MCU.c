@@ -17,6 +17,8 @@ int main(void)
         app_process_action();
     }
 
+    uint32_t count = 0;
+
     return 0;
 }
 
